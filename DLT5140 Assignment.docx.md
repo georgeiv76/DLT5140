@@ -2,44 +2,6 @@
 
 ## **Assignment 1 — Design (not program) an Exam Marking Smart Contract**
 
-Table of content
-
-[1\) Actors](#1\)-actors)
-
-[2\) Memory of the Contract](#2\)-memory-of-the-contract)
-
-[Participants](#participants)
-
-[Marks](#marks)
-
-[Booleans](#booleans)
-
-[Time](#time)
-
-[State](#state)
-
-[Finished, final mark has been determined](#finished,-final-mark-has-been-determined)
-
-[3\) Design](#3\)-design)
-
-[Case 1 — Marks within 10 points](#case-1-—-marks-within-10-points)
-
-[Case 2 — Marks differ by more than 10](#case-2-—-marks-differ-by-more-than-10)
-
-[Case 3 — Revision](#case-3-—-revision)
-
-[Case 3a — Revision not requested or not possible](#case-3a-—-revision-not-requested-or-not-possible)
-
-[Case 3b — Revision requested](#case-3b-—-revision-requested)
-
-[Case 3b(i) — Small difference (≤ 5\)](#case-3b\(i\)-—-small-difference-\(≤-5\))
-
-[Case 3b(ii) — Large difference (\> 5\)](#case-3b\(ii\)-—-large-difference-\(\>-5\))
-
-[1.2 Workflow](#1.2-workflow)
-
-[4\) Contract Interface](#4\)-contract-interface)
-
 ## **1\) Actors** {#1)-actors}
 
 Student
