@@ -2,8 +2,6 @@
 
 ## **Assignment 2: Design and program a smart contract for a single crowdfunding campaign.**
 
-## **Table of content**
-
 ## **Ambiguity clarification**
 
 ### **Contract closure after campaign completion**
